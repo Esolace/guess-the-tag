@@ -1,0 +1,30 @@
+#list-data li {
+	display: inline-block;
+	max-width: 200px;
+}
+
+li img {
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+.display{
+	display: flex;
+	justify-content: space-evenly;
+
+}
+
+.display-tag {
+/*	height: 10px;
+	width: 10px;*/
+	background-color: #76CAF7;
+	padding: 10px;
+	border-style: double;
+	border-color: #;
+	border-width: 3px;
+	}
+
+	h1{
+		text-align: center;
+		border-bottom: solid;
+	}
